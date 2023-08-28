@@ -1,4 +1,9 @@
 # Stock-Analysis
+
+## Source
+
+This is the final assignment in the course IBM Python Project for Data Science, part of IBM Data Analyst Professional Certificate.
+
 ## Gamestop stock vs. Tesla
 Determining the price of a stock is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more.  An essential factor is the company's profit and growth of profits; if the company's profit is increasing, the stock price should increase.  If you suspect the company's profit increases, you should buy the stock as the stock should increase, But what happens if you think the stock price will decrease? 
 
